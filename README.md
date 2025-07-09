@@ -1,4 +1,4 @@
-# mycobot_moveit_config
+# sixdofarm_moveit_config2
 
 ## Installation
 
@@ -10,7 +10,7 @@
 # download
 mkdir -p ~/mycobot_ws/src
 cd ~/mycobot_ws/src
-git clone https://github.com/danbo-rusenki/mycobot_moveit_config.git
+git clone https://github.com/danbo-rusenki/sixdofarm_moveit_config2.git
 
 # build
 cd ~/mycobot_ws
