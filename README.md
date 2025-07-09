@@ -19,3 +19,8 @@ colcon build --symlink-install
 ```
 
 ## Quick Start
+```sh
+source ~/mycobot_ws/install/setup.bash
+
+```
+
