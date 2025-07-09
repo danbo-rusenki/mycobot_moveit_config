@@ -25,7 +25,5 @@ colcon build --symlink-install
 ```sh
 source ~/mycobot_ws/install/setup.bash
 ros2 launch sixdofarm_moveit_config2 demo.launch.py 
-
-
 ```
 
