@@ -1,5 +1,8 @@
 # sixdofarm_moveit_config2
 
+参考にしているロボット
+https://shop.elephantrobotics.com/products/mycobot-pi-worlds-smallest-and-lightest-six-axis-collaborative-robot
+
 ## Installation
 
 ### Build from source
