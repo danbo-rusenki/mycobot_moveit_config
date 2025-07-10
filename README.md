@@ -24,6 +24,8 @@ colcon build --symlink-install
 source ~/mycobot_ws/install/setup.bash
 ros2 launch sixdofarm_moveit_config2 demo.launch.py 
 ```
+rviz2が起動したら，左側の`MotionPlanning`
+
 <p align="center">
 <img src="./image1.png" alt="sixdofarm" width="600"  />
 </p>
