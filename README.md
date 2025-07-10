@@ -1,5 +1,5 @@
 # sixdofarm_moveit_config2
-Ubuntu 22.04<./>
+Ubuntu 22.04<br/>
 ROS2 Humble
 
 参考にしているロボット
