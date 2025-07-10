@@ -24,5 +24,6 @@ colcon build --symlink-install
 source ~/mycobot_ws/install/setup.bash
 ros2 launch sixdofarm_moveit_config2 demo.launch.py 
 ```
-
+<p align="center">
 <img src="./image1.png" alt="sixdofarm" width="400" height="300" />
+</p>
