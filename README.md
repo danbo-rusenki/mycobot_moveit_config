@@ -25,4 +25,4 @@ source ~/mycobot_ws/install/setup.bash
 ros2 launch sixdofarm_moveit_config2 demo.launch.py 
 ```
 
-<img src=https:https://github.com/danbo-rusenki/sixdofarm_moveit_config2/blob/main/image1.png width=400px/>
+![](image1.png)
