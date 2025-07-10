@@ -25,4 +25,4 @@ source ~/mycobot_ws/install/setup.bash
 ros2 launch sixdofarm_moveit_config2 demo.launch.py 
 ```
 
-![](image1.png)
+<img src="./image1.png" alt="sixdofarm" width="400" height="300" />
